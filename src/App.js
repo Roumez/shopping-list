@@ -1,5 +1,6 @@
-import ShoppingApp from "./components/ShoppingApp"
+import "bootstrap/dist/css/bootstrap.css"
 import Header from "./components/Header"
+import ShoppingApp from "./components/ShoppingApp"
 
 function App() {
   return (
@@ -10,4 +11,4 @@ function App() {
   )
 }
 
-export default App
+export default App;
